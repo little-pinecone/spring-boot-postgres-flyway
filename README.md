@@ -43,7 +43,3 @@ You can send a request from Postman
 * [Spring Boot 2.2.5](https://start.spring.io/)
 * [Maven](https://maven.apache.org/)
 * [PostgreSQL docker image](https://hub.docker.com/_/postgres)
-
-## License
-
-This project is licensed under the MIT License - see the [license details](https://opensource.org/licenses/MIT).
